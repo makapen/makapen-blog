@@ -1,2 +1,7 @@
-# makapen-blog
-Theme for Makapen's external blog hosted on Ghost Blog
+swayze
+======
+
+The first ever WooThemes theme for Ghost.
+
+* Designed by Cobus Bester
+* Developed by Jeffrey Pearce
